@@ -12,7 +12,7 @@
     "React",
     "JavaScript"
   ],
-  "author": "Sneyder J. Huertas Rodríguez <sneyder.h.rodriguez@gmail.com>",
+  "author": "Sneyder J. Huertas Rodriguez <sneyder.h.rodriguez@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.17.9",
